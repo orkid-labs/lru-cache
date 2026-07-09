@@ -1,0 +1,17 @@
+[package]
+name = "lru-cache"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Simple LRU cache implementation for Rust with generic key-value types"
+repository = "https://github.com/orkid-labs/lru-cache"
+keywords = ["cache", "lru", "data-structures"]
+categories = ["data-structures", "caching"]
+
+[lib]
+name = "lru_cache"
+path = "src/lib.rs"
+
+[dependencies]
+
+[dev-dependencies]
