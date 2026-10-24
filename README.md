@@ -28,3 +28,18 @@ assert_eq!(cache.get(&"b"), None);
 ## License
 
 MIT
+
+---
+
+## Part of Orkid Labs
+
+**lru-cache** — Simple, dependency-free LRU cache for Rust with generic keys and values.
+
+- Install: `cargo add orkid-lru-cache`
+- Package: https://crates.io/crates/orkid-lru-cache
+- API docs: https://docs.rs/orkid-lru-cache
+- Docs: https://docs.orkidlabs.xyz/packages/lru-cache
+
+Related Orkid projects: [event-broadcaster](https://github.com/orkid-labs/event-broadcaster)
+
+Orkid Labs builds gasless, MEV-protected swap routing and agent-native DeFi infrastructure — [orkidlabs.xyz](https://orkidlabs.xyz) · [@orkid-labs on npm](https://www.npmjs.com/org/orkid-labs) · [github.com/orkid-labs](https://github.com/orkid-labs)
